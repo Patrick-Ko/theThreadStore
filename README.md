@@ -1,1 +1,1 @@
-# A React Native Shop IA
+# fashion an clothing service
