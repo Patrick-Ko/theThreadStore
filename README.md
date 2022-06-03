@@ -1,1 +1,1 @@
-# fashion an clothing service
+# fashion and clothing service
